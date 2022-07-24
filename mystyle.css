@@ -1,0 +1,9 @@
+.counter-container{
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.text-container{
+    text-size-adjust:3em;
+}
